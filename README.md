@@ -1,6 +1,6 @@
 <!-- <img alt="Coder GIF" height=250 width=350 src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" /> -->
  
-<img alt="my_bitmoji" height=350 width=350 src="https://github.com/msahmed646/msahmed646/assets/126536410/e2973d9c-61a0-43bd-96ba-3b22a0d9b7cf" />
+<img alt="my_bitmoji" height=450 width=350 src="https://github.com/msahmed646/msahmed646/assets/126536410/e2973d9c-61a0-43bd-96ba-3b22a0d9b7cf" />
 
 - 👋 Hi, I’m Shahriar
 - 📍 I live in West Palm Beach, FL
