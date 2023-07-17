@@ -1,8 +1,6 @@
 <!-- <img alt="Coder GIF" height=250 width=350 src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" /> -->
  
-<img alt="my_bitmoji" height=350 width=350 src="https://github.com/msahmed646/msahmed646/assets/126536410/e0e6f890-e1b8-4549-ba78-ce1038953819" />
-
-
+<img alt="my_bitmoji" height=350 width=350 src="https://github.com/msahmed646/msahmed646/assets/126536410/e2973d9c-61a0-43bd-96ba-3b22a0d9b7cf" />
 
 - 👋 Hi, I’m Shahriar
 - 📍 I live in West Palm Beach, FL
@@ -12,6 +10,7 @@
 - 📄 Here's a link to my resume- https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:4a2f0720-8a47-3ffd-ae37-c1a043e5db33
   
 I am currently looking for a Front-End, Back-End or Full Stack opportunity, especially in remote setting. Please feel free to reach out!
+
 <!---
 msahmed646/msahmed646 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
