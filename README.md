@@ -5,8 +5,8 @@
 - 📍 I live in West Palm Beach, FL
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning C#, Java, Angular, Flutter and Cybersecurity.
-- 📫 How to reach me ... Email- msahmed646@gmail.com
-                         LinkedIn- https://www.linkedin.com/in/mohammed646/
+- 📫 How to reach me ... Email- msahmed646@gmail.com || LinkedIn- https://www.linkedin.com/in/mohammed646/
+- 📄 Here's a link to my resume- https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:4a2f0720-8a47-3ffd-ae37-c1a043e5db33
   
 I am currently looking for a Front-End, Back-End or Full Stack opportunity, especially in remote setting. Please feel free to reach out!
 <!---
